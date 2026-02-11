@@ -1,0 +1,19 @@
+[
+  {"slug": "ARC_Bastion", "name": "Bastion", "image": "arcs/ARC_Bastion.webp"},
+  {"slug": "ARC_Bombardier", "name": "Bombardier", "image": "arcs/ARC_Bombardier.webp"},
+  {"slug": "ARC_Fireball", "name": "Fireball", "image": "arcs/ARC_Fireball.webp"},
+  {"slug": "ARC_Hornet", "name": "Hornet", "image": "arcs/ARC_Hornet.webp"},
+  {"slug": "ARC_Leaper", "name": "Leaper", "image": "arcs/ARC_Leaper.webp"},
+  {"slug": "ARC_Matriarch", "name": "Matriarch", "image": "arcs/ARC_Matriarch.webp"},
+  {"slug": "ARC_Pop", "name": "Pop", "image": "arcs/ARC_Pop.webp"},
+  {"slug": "ARC_Rocketeer", "name": "Rocketeer", "image": "arcs/ARC_Rocketeer.webp"},
+  {"slug": "ARC_Sentinel", "name": "Sentinel", "image": "arcs/ARC_Sentinel.webp"},
+  {"slug": "ARC_Shredder", "name": "Shredder", "image": "arcs/ARC_Shredder.webp"},
+  {"slug": "ARC_Snitch", "name": "Snitch", "image": "arcs/ARC_Snitch.webp"},
+  {"slug": "ARC_Spotter", "name": "Spotter", "image": "arcs/ARC_Spotter.webp"},
+  {"slug": "ARC_Surveyor", "name": "Surveyor", "image": "arcs/ARC_Surveyor.webp"},
+  {"slug": "ARC_The_Queen", "name": "The Queen", "image": "arcs/ARC_The_Queen.webp"},
+  {"slug": "ARC_Tick", "name": "Tick", "image": "arcs/ARC_Tick.webp"},
+  {"slug": "ARC_Turret", "name": "Turret", "image": "arcs/ARC_Turret.webp"},
+  {"slug": "ARC_Wasp", "name": "Wasp", "image": "arcs/ARC_Wasp.webp"}
+]

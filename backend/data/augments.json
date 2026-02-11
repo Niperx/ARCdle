@@ -1,0 +1,155 @@
+[
+  {
+    "slug": "Free_Loadout_Augment",
+    "name": "Free Loadout Augment",
+    "rarity": "Common",
+    "image": "augments/Free_Loadout_Augment.webp",
+    "hq_image": "augments/HQ/Free_Loadout_Augment.png",
+    "craftable": false,
+    "compatible_shields": ["Light_Shield"],
+    "ingredients": []
+  },
+  {
+    "slug": "Looting_MK1",
+    "name": "Looting MK.1",
+    "rarity": "Uncommon",
+    "image": "augments/Looting_MK_1.webp",
+    "hq_image": "augments/HQ/Looting_Mk._1.png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield"],
+    "ingredients": [
+      {"material_slug": "Rubber_Parts", "quantity": 6, "reveal_order": 1},
+      {"material_slug": "Plastic_Parts", "quantity": 6, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Combat_MK1",
+    "name": "Combat MK.1",
+    "rarity": "Uncommon",
+    "image": "augments/Combat_MK_1.webp",
+    "hq_image": "augments/HQ/Combat_Mk._1.png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield", "Medium_Shield"],
+    "ingredients": [
+      {"material_slug": "Rubber_Parts", "quantity": 6, "reveal_order": 1},
+      {"material_slug": "Plastic_Parts", "quantity": 6, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Tactical_MK1",
+    "name": "Tactical MK.1",
+    "rarity": "Uncommon",
+    "image": "augments/Tactical_Mk1.webp",
+    "hq_image": "augments/HQ/Tactical_Mk._1.png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield", "Medium_Shield"],
+    "ingredients": [
+      {"material_slug": "Rubber_Parts", "quantity": 6, "reveal_order": 1},
+      {"material_slug": "Plastic_Parts", "quantity": 6, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Looting_MK2",
+    "name": "Looting MK.2",
+    "rarity": "Rare",
+    "image": "augments/Looting_MK2.webp",
+    "hq_image": "augments/HQ/Looting_Mk._2.png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield"],
+    "ingredients": [
+      {"material_slug": "Electrical_Components", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Magnet", "quantity": 3, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Combat_MK2",
+    "name": "Combat MK.2",
+    "rarity": "Rare",
+    "image": "augments/Combat_Mk2.webp",
+    "hq_image": "augments/HQ/Combat_Mk._2.png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield", "Medium_Shield", "Heavy_Shield"],
+    "ingredients": [
+      {"material_slug": "Electrical_Components", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Magnet", "quantity": 3, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Tactical_MK2",
+    "name": "Tactical MK.2",
+    "rarity": "Rare",
+    "image": "augments/Tactical_Mk2.webp",
+    "hq_image": "augments/HQ/Tactical_Mk._2.png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield", "Medium_Shield"],
+    "ingredients": [
+      {"material_slug": "Electrical_Components", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Magnet", "quantity": 3, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Looting_MK3_Survivor",
+    "name": "Looting MK.3 (Survivor)",
+    "rarity": "Epic",
+    "image": "augments/Looting_MK_Survivor.webp",
+    "hq_image": "augments/HQ/Looting_Mk._3_(Survivor).png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield", "Medium_Shield"],
+    "ingredients": [
+      {"material_slug": "Advanced_Electrical_Components", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Processor", "quantity": 3, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Looting_MK3_Cautious",
+    "name": "Looting MK.3 (Cautious)",
+    "rarity": "Epic",
+    "image": "augments/Looting_MK3_Cautious.webp",
+    "hq_image": "augments/HQ/Looting_Mk._3_(Cautious).png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield"],
+    "ingredients": [
+      {"material_slug": "Advanced_Electrical_Components", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Processor", "quantity": 3, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Tactical_MK3_Healing",
+    "name": "Tactical MK.3 (Healing)",
+    "rarity": "Epic",
+    "image": "augments/Tactical_Mk3_Healing.webp",
+    "hq_image": "augments/HQ/Tactical_Mk._3_(Healing).png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield", "Medium_Shield"],
+    "ingredients": [
+      {"material_slug": "Advanced_Electrical_Components", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Processor", "quantity": 3, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Tactical_MK3_Revival",
+    "name": "Tactical MK.3 (Revival)",
+    "rarity": "Epic",
+    "image": "augments/Tactical_MK3_Revival.webp",
+    "hq_image": "augments/HQ/Tactical_Mk._3_(Revival).png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield"],
+    "ingredients": [
+      {"material_slug": "Advanced_Electrical_Components", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Processor", "quantity": 3, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Combat_MK3_Aggressive",
+    "name": "Combat MK.3 (Aggressive)",
+    "rarity": "Epic",
+    "image": "augments/Combat_MK3_Aggresive.webp",
+    "hq_image": "augments/HQ/Combat_Mk._3_(Aggressive).png",
+    "craftable": true,
+    "compatible_shields": ["Light_Shield", "Medium_Shield", "Heavy_Shield"],
+    "ingredients": [
+      {"material_slug": "Advanced_Electrical_Components", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Processor", "quantity": 3, "reveal_order": 2}
+    ]
+  }
+]

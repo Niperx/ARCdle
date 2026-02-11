@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "anvil-sound",
+    "name": "Anvil",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Anvil.mp3",
+    "image": "weapons/HQ/Anvil.png",
+    "hq_image": "weapons/HQ/Anvil.png"
+  },
+  {
+    "slug": "arpeggio-sound",
+    "name": "Arpeggio",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Arpeggio.mp3",
+    "image": "weapons/HQ/Arpeggio.png",
+    "hq_image": "weapons/HQ/Arpeggio.png"
+  },
+  {
+    "slug": "bobcat-sound",
+    "name": "Bobcat",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Bobcat.mp3",
+    "image": "weapons/HQ/Bobcat.png",
+    "hq_image": "weapons/HQ/Bobcat.png"
+  },
+  {
+    "slug": "burletta-sound",
+    "name": "Burletta",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Burletta.mp3",
+    "image": "weapons/HQ/Burletta.png",
+    "hq_image": "weapons/HQ/Burletta.png"
+  },
+  {
+    "slug": "ferro-sound",
+    "name": "Ferro",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Ferro.mp3",
+    "image": "weapons/HQ/Ferro.png",
+    "hq_image": "weapons/HQ/Ferro.png"
+  },
+  {
+    "slug": "hairpin-sound",
+    "name": "Hairpin",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Hairpin.mp3",
+    "image": "weapons/HQ/Hairpin.png",
+    "hq_image": "weapons/HQ/Hairpin.png"
+  },
+  {
+    "slug": "il-toro-sound",
+    "name": "IL Toro",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/IL_Toro.mp3",
+    "image": "weapons/HQ/IL_Toro.png",
+    "hq_image": "weapons/HQ/IL_Toro.png"
+  },
+  {
+    "slug": "kettle-sound",
+    "name": "Kettle",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Kettle.mp3",
+    "image": "weapons/HQ/Kettle.png",
+    "hq_image": "weapons/HQ/Kettle.png"
+  },
+  {
+    "slug": "osprey-sound",
+    "name": "Osprey",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Osprey.mp3",
+    "image": "weapons/HQ/Osprey.png",
+    "hq_image": "weapons/HQ/Osprey.png"
+  },
+  {
+    "slug": "renegade-sound",
+    "name": "Renegade",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Renegade.mp3",
+    "image": "weapons/HQ/Renegade.png",
+    "hq_image": "weapons/HQ/Renegade.png"
+  },
+  {
+    "slug": "stitcher-sound",
+    "name": "Stitcher",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Stitcher.mp3",
+    "image": "weapons/HQ/Stitcher.png",
+    "hq_image": "weapons/HQ/Stitcher.png"
+  },
+  {
+    "slug": "torrente-sound",
+    "name": "Torrente",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Torrente.mp3",
+    "image": "weapons/HQ/Torrente.png",
+    "hq_image": "weapons/HQ/Torrente.png"
+  },
+  {
+    "slug": "vulcano-sound",
+    "name": "Vulcano",
+    "category": "weapon",
+    "sound_file": "weapons/sounds/Vulcano.mp3",
+    "image": "weapons/HQ/Vulcano.png",
+    "hq_image": "weapons/HQ/Vulcano.png"
+  }
+]

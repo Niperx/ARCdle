@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "Light_Shield",
+    "name": "Light Shield",
+    "rarity": "Uncommon",
+    "image": "shields/Light_Shield.webp",
+    "hq_image": "shields/HQ/Light_Shield.png",
+    "ingredients": [
+      {"material_slug": "ARC_Alloy", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Plastic_Parts", "quantity": 4, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Medium_Shield",
+    "name": "Medium Shield",
+    "rarity": "Rare",
+    "image": "shields/Medium_Shield.webp",
+    "hq_image": "shields/HQ/Medium_Shield.png",
+    "ingredients": [
+      {"material_slug": "Battery", "quantity": 4, "reveal_order": 1},
+      {"material_slug": "ARC_Circuitry", "quantity": 1, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Heavy_Shield",
+    "name": "Heavy Shield",
+    "rarity": "Epic",
+    "image": "shields/Heavy_Shield.webp",
+    "hq_image": "shields/HQ/Heavy_Shield.png",
+    "ingredients": [
+      {"material_slug": "PowerRod", "quantity": 1, "reveal_order": 1},
+      {"material_slug": "Voltage_Converter", "quantity": 2, "reveal_order": 2}
+    ]
+  }
+]

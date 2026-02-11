@@ -1,0 +1,166 @@
+[
+  {
+    "slug": "Advanced_Electrical_Components",
+    "name": "Advanced Electrical Components",
+    "rarity": "Uncommon",
+    "image": "items/Advanced_Electrical_Components.webp",
+    "ingredients": [
+      {"material_slug": "Wires", "quantity": 3, "reveal_order": 1},
+      {"material_slug": "Electrical_Components", "quantity": 2, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Advanced_Mechanical_Components",
+    "name": "Advanced Mechanical Components",
+    "rarity": "Uncommon",
+    "image": "items/Advanced_Mechanical_Components.webp",
+    "ingredients": [
+      {"material_slug": "Steel_Spring", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Mechanical_Components", "quantity": 2, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Antiseptic",
+    "name": "Antiseptic",
+    "rarity": "Uncommon",
+    "image": "items/Antiseptic.webp",
+    "ingredients": [
+      {"material_slug": "Chemicals", "quantity": 10, "reveal_order": 1},
+      {"material_slug": "Great_Mullein", "quantity": 2, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "ARC_Circuitry",
+    "name": "ARC Circuitry",
+    "rarity": "Rare",
+    "image": "items/ARC_Circuitry.webp",
+    "ingredients": [
+      {"material_slug": "ARC_Alloy", "quantity": 8, "reveal_order": 1}
+    ]
+  },
+  {
+    "slug": "ARC_Motion_Core",
+    "name": "ARC Motion Core",
+    "rarity": "Rare",
+    "image": "items/ARC_Motion_Core.webp",
+    "ingredients": [
+      {"material_slug": "ARC_Alloy", "quantity": 8, "reveal_order": 1}
+    ]
+  },
+  {
+    "slug": "Complex_Gun_Parts",
+    "name": "Complex Gun Parts",
+    "rarity": "Rare",
+    "image": "items/Complex_Gun_Parts.webp",
+    "ingredients": [
+      {"material_slug": "Light_Gun_Parts", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Medium_Gun_Parts", "quantity": 2, "reveal_order": 2},
+      {"material_slug": "Heavy_Gun_Parts", "quantity": 2, "reveal_order": 3}
+    ]
+  },
+  {
+    "slug": "Crude_Explosives",
+    "name": "Crude Explosives",
+    "rarity": "Common",
+    "image": "items/Crude_Explosives.webp",
+    "ingredients": [
+      {"material_slug": "Chemicals", "quantity": 6, "reveal_order": 1}
+    ]
+  },
+  {
+    "slug": "Durable_Cloth",
+    "name": "Durable Cloth",
+    "rarity": "Uncommon",
+    "image": "items/Durable_Cloth.webp",
+    "ingredients": [
+      {"material_slug": "Fabric", "quantity": 14, "reveal_order": 1}
+    ]
+  },
+  {
+    "slug": "Electrical_Components",
+    "name": "Electrical Components",
+    "rarity": "Common",
+    "image": "items/Electrical_Components.webp",
+    "ingredients": [
+      {"material_slug": "Plastic_Parts", "quantity": 8, "reveal_order": 1},
+      {"material_slug": "Rubber_Parts", "quantity": 4, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Explosive_Compound",
+    "name": "Explosive Compound",
+    "rarity": "Uncommon",
+    "image": "items/Explosive_Compound.webp",
+    "ingredients": [
+      {"material_slug": "Crude_Explosives", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Oil", "quantity": 2, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Heavy_Gun_Parts",
+    "name": "Heavy Gun Parts",
+    "rarity": "Uncommon",
+    "image": "items/Heavy_Gun_Parts.webp",
+    "ingredients": [
+      {"material_slug": "Simple_Gun_Parts", "quantity": 4, "reveal_order": 1}
+    ]
+  },
+  {
+    "slug": "Light_Gun_Parts",
+    "name": "Light Gun Parts",
+    "rarity": "Uncommon",
+    "image": "items/Light_Gun_Parts.webp",
+    "ingredients": [
+      {"material_slug": "Simple_Gun_Parts", "quantity": 4, "reveal_order": 1}
+    ]
+  },
+  {
+    "slug": "Medium_Gun_Parts",
+    "name": "Medium Gun Parts",
+    "rarity": "Uncommon",
+    "image": "items/Medium_Gun_Parts.webp",
+    "ingredients": [
+      {"material_slug": "Simple_Gun_Parts", "quantity": 4, "reveal_order": 1}
+    ]
+  },
+  {
+    "slug": "Magnetic_Accelerator",
+    "name": "Magnetic Accelerator",
+    "rarity": "Rare",
+    "image": "items/Magnetic_Accelerator.webp",
+    "ingredients": [
+      {"material_slug": "Advanced_Mechanical_Components", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "ARC_Motion_Core", "quantity": 2, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Mechanical_Components",
+    "name": "Mechanical Components",
+    "rarity": "Common",
+    "image": "items/Mechanical_Components.webp",
+    "ingredients": [
+      {"material_slug": "Metal_Parts", "quantity": 7, "reveal_order": 1},
+      {"material_slug": "Rubber_Parts", "quantity": 3, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "Mod_Components",
+    "name": "Mod Components",
+    "rarity": "Uncommon",
+    "image": "items/Mod_Components.webp",
+    "ingredients": [
+      {"material_slug": "Steel_Spring", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "Mechanical_Components", "quantity": 2, "reveal_order": 2}
+    ]
+  },
+  {
+    "slug": "PowerRod",
+    "name": "Power Rod",
+    "rarity": "Rare",
+    "image": "items/PowerRod.webp",
+    "ingredients": [
+      {"material_slug": "Advanced_Electrical_Components", "quantity": 2, "reveal_order": 1},
+      {"material_slug": "ARC_Circuitry", "quantity": 2, "reveal_order": 2}
+    ]
+  }
+]

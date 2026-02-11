@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://arcdle.online/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://arcdle.online/weapon</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://arcdle.online/location</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://arcdle.online/blueprint</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://arcdle.online/sound</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://arcdle.online/skill</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://arcdle.online/run</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://arcdle.online/favorite</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://arcdle.online/build</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://arcdle.online/stats</loc>
+    <changefreq>daily</changefreq>
+  </url>
+</urlset>
+
